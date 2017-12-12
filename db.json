@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Joe",
+      "username": "joe"
+    }
+  ],
+  "posts": [
+    {
+      "id": "ryqmJDpbz",
+      "title": "My blog title is here",
+      "details": "and right here is the content of that blog (not a bug.. ^_^)"
+    },
+    {
+      "id": "rJ-K6DTZz",
+      "title": "Another example blog",
+      "details": "The content of that blog"
+    }
+  ]
+}

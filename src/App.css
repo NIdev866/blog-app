@@ -1,0 +1,113 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.signInTextField{
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+
+.loading{
+  margin-top:50px;
+  font-size: 35px;
+}
+
+.contentBody{
+  margin: 15px;
+  margin-top: 30px;
+}
+
+.singleBlogStyle{
+  border: 1px solid #d9d9d9;
+  text-align: left;
+  padding: 15px;
+}
+
+.singleBlogTitle{
+  padding-left: 15px;
+  margin-bottom: 20px;
+}
+
+.singleBlogContent{
+  padding-left: 25px;
+}
+
+.listOfAllBlogs{
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
+.blogFromList{
+  margin: 15px;
+  padding: 15px;
+  text-align: left;
+  text-decoration: none;
+}
+
+.btn{
+  margin: 5px;
+  cursor: pointer;
+}
+
+.contentAlign{
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.newPostButton{
+  position: relative;
+  float: right;
+  margin: 15px;
+  cursor: pointer;
+}
+
+.homepageHeader{
+  text-align: left;
+  margin: 15px;
+  margin-bottom: -30px;
+}
+
+.signinHeader{
+  text-align: left;
+  margin: 15px;
+}
+
+.form-control{
+  overflow: hidden;
+}
+
+.titleInput{
+  margin-bottom: 10px;
+}
+
+.buttonFloatLeft{
+  float: left;
+}
+
+.buttonFloatRight{
+  float: right;
+}
+
+.hoverLink:hover{
+  text-decoration: none
+}
